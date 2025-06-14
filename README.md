@@ -13,7 +13,7 @@ PDF AutoFiller is a command-line tool designed to automate the generation of ran
 
 ## 🏗️ System Description & Architecture
 
-PDF AutoFiller intelligently reads a PDF form, detects each fillable field, infers its "type" (name, date, email, etc.) using OpenAI, then auto-populates the form with randomized but valid data using Faker.
+PDF AutoFiller intelligently reads a PDF form, detects each fillable field, infers its "type" (name, date, email, etc.) using OpenAI, then auto-populates the form with randomized fake test data.
 
 ### High-Level Workflow
 
