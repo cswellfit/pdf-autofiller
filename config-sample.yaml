@@ -1,0 +1,11 @@
+# OpenAI Configuration
+openai:
+  # Your OpenAI API key (required)
+  api_key: "sk-proj=****"
+
+  # The model to use for field detection (e.g., gpt-4, gpt-3.5-turbo)
+  model: "gpt-4"
+
+  # Optional: OpenAI API endpoint URL. Leave blank for default.
+  # Useful for proxy or custom deployments.
+  endpoint_url: ""
